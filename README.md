@@ -4,7 +4,7 @@ git clone https://github.com/romadu/cannonball
 cd cannonball
 mkdir build
 cd build
-cmake .././cmake -DTARGET=linux.cmake
+cmake ../cmake -DTARGET=linux.cmake
 make
 ```
 
