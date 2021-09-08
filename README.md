@@ -1,5 +1,6 @@
 To compile
-```git clone https://github.com/romadu/cannonball
+```
+git clone https://github.com/romadu/cannonball
 cd cannonball
 mkdir build
 cd build
